@@ -2,7 +2,7 @@
 - 👀 I’m interested in ARTIFICIAL INTELLIGENCE FOR SCIENCE AND TECHNOLOGY
 - 🌱 I’m currently learning AI, ML, DL
 - 💞️ I’m looking to collaborate on AI DOMAIN
-- 📫 How to reach me BY LINKEDIN
+- 📫 How to reach me BY LINKEDIN: https://www.linkedin.com/in/subhrajyoti-sengupta-581b1b169/
 
 🚀 **Passionate Technologist in AI and Emerging Technologies | MS in AI | B.Tech in Electronics and Instrumentation**
 
